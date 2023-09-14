@@ -1,10 +1,22 @@
-1A) Lei Geral de Proteção de Dados (13.709/2018) tem como principal objetivo proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural. Também tem como foco a criação de um cenário de segurança jurídica, com a padronização de regulamentos e práticas para promover a proteção aos dados pessoais de todo cidadão que esteja no Brasil, de acordo com os parâmetros internacionais existentes. A lei define o que são dados pessoais e explica que alguns deles estão sujeitos a cuidados ainda mais específicos, como os dados pessoais sensíveis e dados pessoais sobre crianças e adolescentes. Esclarece ainda que todos os dados tratados, tanto no meio físico quanto no digital, estão sujeitos à regulação. Além disso, a LGPD estabelece que não importa se a sede de uma organização ou o centro de dados dela estão localizados no Brasil ou no exterior: se há o processamento de informações sobre pessoas, brasileiras ou não, que estão no território nacional, a LGPD deve ser observada. A lei autoriza também o compartilhamento de dados pessoais com organismos internacionais e com outros países, desde que observados os requisitos nela estabelecidos. 
-Data Centers consistem em um conjunto de equipamentos utilizados por uma organização para o processamento e armazenamento de dados, sistemas e aplicações. Essa estrutura geralmente reúne servidores, bancos de dados informatizados e componentes auxiliares, como storages e ativos de rede (switches e roteadores). 
-1B) Dados abertos são dados que podem ser livremente usados, reutilizados e redistribuídos por qualquer pessoa - sujeitos, no máximo, à exigência de atribuição da fonte e compartilhamento pelas mesmas regras.
-Dentre os efeitos dos dados abertos governamentais sobre as políticas públicas compreende-se: 
-Inclusão: Fornecer dados em formatos padronizados abertos e acessíveis permite que qualquer cidadão utilize qualquer ferramenta de software para adaptá-los às suas necessidades. 
-Transparência: Informações do setor público abertas e acessíveis melhoram a transparência, pois as partes interessadas podem usá-las da maneira mais adequada ao seu propósito.
-Responsabilidade: Os conjuntos apropriados de dados abertos, devidamente associados, podem oferecer vários pontos de vista sobre o desempenho dos governo no cumprimento de suas metas em políticas públicas.
+1A) Lei Geral de Proteção de Dados (13.709/2018) tem como principal objetivo proteger os direitos fundamentais de liberdade e de privacidade e o livre 
+desenvolvimento da personalidade da pessoa natural. Também tem como foco a criação de um cenário de segurança jurídica, com a padronização de 
+regulamentos e práticas para promover a proteção aos dados pessoais de todo cidadão que esteja no Brasil, de acordo com os parâmetros internacionais 
+existentes. A lei define o que são dados pessoais e explica que alguns deles estão sujeitos a cuidados ainda mais específicos, como os dados pessoais 
+sensíveis e dados pessoais sobre crianças e adolescentes. Esclarece ainda que todos os dados tratados, tanto no meio físico quanto no digital, estão 
+sujeitos à regulação. Além disso, a LGPD estabelece que não importa se a sede de uma organização ou o centro de dados dela estão localizados no Brasil
+ou no exterior: se há o processamento de informações sobre pessoas, brasileiras ou não, que estão no território nacional, a LGPD deve ser observada. 
+A lei autoriza também o compartilhamento de dados pessoais com organismos internacionais e com outros países, desde que observados os requisitos nela 
+estabelecidos. Data Centers consistem em um conjunto de equipamentos utilizados por uma organização para o processamento e armazenamento de dados, 
+sistemas e aplicações. Essa estrutura geralmente reúne servidores, bancos de dados informatizados e componentes auxiliares, como storages e ativos de
+rede (switches e roteadores). 
+
+1B) Dados abertos são dados que podem ser livremente usados, reutilizados e redistribuídos por qualquer pessoa - sujeitos, no máximo, à exigência de 
+atribuição da fonte e compartilhamento pelas mesmas regras. Dentre os efeitos dos dados abertos governamentais sobre as políticas públicas compreende-se: 
+Inclusão: Fornecer dados em formatos padronizados abertos e acessíveis permite que qualquer cidadão utilize qualquer ferramenta de software para 
+adaptá-los às suas necessidades. Transparência: Informações do setor público abertas e acessíveis melhoram a transparência, pois as partes interessadas 
+podem usá-las da maneira mais adequada ao seu propósito. Responsabilidade: Os conjuntos apropriados de dados abertos, devidamente associados, podem 
+oferecer vários pontos de vista sobre o desempenho dos governo no cumprimento de suas metas em políticas públicas.
+
 I- Principais formatos de arquivo incluem:
 ASF - arquivo de áudio ou vídeo executável com o Windows Media Player.
 AVI - uma das extensões de arquivos de vídeo mais utilizadas.
@@ -20,6 +32,7 @@ FB - bancos de dados Firebird.
 PDF - documento do Acrobat Adobe.
 TXT - arquivos de texto comum.
 EXE - arquivo usado no Windows para designar um aplicativo ou um programa executável.
+
 II- 
 
 REFERENCIAS:
