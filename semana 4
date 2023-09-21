@@ -1,7 +1,23 @@
-1) 
+1) Java: é uma das linguagens de programação mais utilizadas no mundo devido à sua versatilidade e robustez. Ela foi criada na década de 90, pela
+Sun Microsystems, para ser usada em dispositivos embarcados, mas posteriormente evoluiu e passou a fazer parte de inúmeras soluções. É uma linguagem 
+compilada de alto nível muito utilizada em sites front-end e no desenvolvimento de jogos. É uma linguagem de alto nível projetada para ter o menor número 
+possível de dependências de implementação. Dessa forma, os programadores escrevem o código uma única vez e ele pode ser executado em qualquer plataforma
+que comporte essa linguagem de programação. 
+Phyton: É uma linguagem de programação de alto nível e de propósito generalista. Sua filosofia de design enfatiza a legibilidade do código com a proposta
+de ser de fácil compreensão com o uso de palavras-chave em inglês. Não costuma utilizar recursos gráficos como chaves e colchetes para delimitar blocos. 
+Ela pode ser utilizada para múltiplas tarefas, desde a análise e visualização de dados até o desenvolvimento, prototipação e automação web, e é muito 
+popular entre desenvolvedores de software, pois funciona muito bem como uma linguagem de scripts. Ela é de código aberto, isto é, ela permite que os 
+programadores modifiquem seu código-fonte para que se ajuste às suas necessidades. 
+C#:  é uma linguagem de programação simples e de propósito geral que auxilia no desenvolvimento de princípios de engenharia de software. É utilizada para 
+escrever aplicativos para sistemas hospedados e incorporados. É orientada a objetos, um modelo que organiza o design de software ao redor de objetos. É uma 
+das principais linguagens de programação do mercado devido ao seu rápido desempenho e estabilidade melhorada. Essa linguagem de programação também é mais 
+fácil de ser aprendida do que as suas antecessoras, como C e C++, pois possui uma sintaxe mais simples e uma hierarquia de classe bem definida. A  melhor 
+linguagem de programação para aprender a desenvolver aplicações desktop baseadas em GUI (graphical user interface). 
 
-
+A) Phyton: 
 
 
 REFERENCIAS:
 https://itstep.com.br/blog/learn-the-3-most-used-programming-languages
+https://www.napratica.org.br/linguagem-de-programacao/#:~:text=Conhecendo%20as%20diferentes%20linguagens%201%20JavaScript%20%C3%89%20uma,prop%C3%B3sito%20generalista.%20...%203%20Java%20...%20Mais%20itens
+https://www.hostinger.com.br/tutoriais/linguagens-de-programacao-mais-usadas#SnippetTab
