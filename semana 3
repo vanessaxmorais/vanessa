@@ -16,8 +16,8 @@ Inclusão: Fornecer dados em formatos padronizados abertos e acessíveis permite
 adaptá-los às suas necessidades. Transparência: Informações do setor público abertas e acessíveis melhoram a transparência, pois as partes interessadas 
 podem usá-las da maneira mais adequada ao seu propósito. Responsabilidade: Os conjuntos apropriados de dados abertos, devidamente associados, podem 
 oferecer vários pontos de vista sobre o desempenho dos governo no cumprimento de suas metas em políticas públicas.  proprietários são, na verdade, 
-controlados e definidos por interesses privados. Dados proprietários são da empresa, o usuário corre o risco de perder todas as informações contidas no arquivo caso
-o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas 
+controlados e definidos por interesses privados. Dados proprietários são da empresa, o usuário corre o risco de perder todas as informações contidas no
+arquivo caso o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas
 nos arquivos públicos se tornariam ilegíveis e inutilizáveis em muito pouco tempo.
 
 I- Principais formatos de arquivo incluem:
@@ -36,9 +36,16 @@ PDF - documento do Acrobat Adobe.
 TXT - arquivos de texto comum.
 EXE - arquivo usado no Windows para designar um aplicativo ou um programa executável.
 
-II- 
+II- De um lado existe a necessidade de transparência, que fundamenta o Estado democrático, de outro, há que se garantir a privacidade dos seus cidadãos. 
+Com a implementação das normas a partir da promulgação da Constituição de 1988, com destaque para a Lei de Acesso à Informação (LAI) e a Lei Geral de
+Proteção de Dados Pessoais (LGPD), é necessário ter clara as implicações de tais normas no âmbito da atuação do setor público, bem como a identificação 
+de eventual antinomia entre elas. O propósito do artigo 7 da Lei nº 13.709/18 é esclarecer essa questão de forma a auxiliar os Controladores e os Operadores
+(agentes de tratamento) na busca da conformidade. 
+
 
 REFERENCIAS:
 https://www.bing.com/ck/a?!&&p=70e9b24bd70f1103JmltdHM9MTY5NDY0OTYwMCZpZ3VpZD0yNWZmMjk1Yi05NjFkLTZhOGEtM2QwYS0zYWQ3OTdkMzZiNDEmaW5zaWQ9NTIzOQ&ptn=3&hsh=3&fclid=25ff295b-961d-6a8a-3d0a-3ad797d36b41&psq=dados+abertos+o+que+%c3%a9&u=a1aHR0cHM6Ly93d3cuZ292LmJyL2dvdmVybm9kaWdpdGFsL3B0LWJyL2RhZG9zLWFiZXJ0b3M&ntb=1
 https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
 https://www.mpf.mp.br/servicos/lgpd/o-que-e-a-lgpd
+https://techcompliance.org/dados-publicos/
+https://revista.cgu.gov.br/Cadernos_CGU/article/view/601#:~:text=Com%20a%20implementa%C3%A7%C3%A3o%20das%20normas%20a%20partir%20da,como%20a%20identifica%C3%A7%C3%A3o%20de%20eventual%20antinomia%20entre%20elas.
