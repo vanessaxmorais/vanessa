@@ -15,7 +15,10 @@ atribuição da fonte e compartilhamento pelas mesmas regras. Dentre os efeitos 
 Inclusão: Fornecer dados em formatos padronizados abertos e acessíveis permite que qualquer cidadão utilize qualquer ferramenta de software para 
 adaptá-los às suas necessidades. Transparência: Informações do setor público abertas e acessíveis melhoram a transparência, pois as partes interessadas 
 podem usá-las da maneira mais adequada ao seu propósito. Responsabilidade: Os conjuntos apropriados de dados abertos, devidamente associados, podem 
-oferecer vários pontos de vista sobre o desempenho dos governo no cumprimento de suas metas em políticas públicas.
+oferecer vários pontos de vista sobre o desempenho dos governo no cumprimento de suas metas em políticas públicas.  proprietários são, na verdade, 
+controlados e definidos por interesses privados. Dados proprietários são da empresa, o usuário corre o risco de perder todas as informações contidas no arquivo caso
+o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas 
+nos arquivos públicos se tornariam ilegíveis e inutilizáveis em muito pouco tempo.
 
 I- Principais formatos de arquivo incluem:
 ASF - arquivo de áudio ou vídeo executável com o Windows Media Player.
@@ -37,3 +40,5 @@ II-
 
 REFERENCIAS:
 https://www.bing.com/ck/a?!&&p=70e9b24bd70f1103JmltdHM9MTY5NDY0OTYwMCZpZ3VpZD0yNWZmMjk1Yi05NjFkLTZhOGEtM2QwYS0zYWQ3OTdkMzZiNDEmaW5zaWQ9NTIzOQ&ptn=3&hsh=3&fclid=25ff295b-961d-6a8a-3d0a-3ad797d36b41&psq=dados+abertos+o+que+%c3%a9&u=a1aHR0cHM6Ly93d3cuZ292LmJyL2dvdmVybm9kaWdpdGFsL3B0LWJyL2RhZG9zLWFiZXJ0b3M&ntb=1
+https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
+https://www.mpf.mp.br/servicos/lgpd/o-que-e-a-lgpd
